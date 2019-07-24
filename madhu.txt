@@ -1,14 +1,2 @@
-demo git repository
-this is the first line
-dfdsfjuhetfjew
-gfwdvrewadghetg
-regfretgyre
-jfndsjgnvkldfgvnj
-
-
-
-gjnrefjvgknrfkevgn
-rgegrefgrfeg
-fdegvdsfgvr
-fgbvfdgv
-dfgvrdfwgv
+website content
+index.html
